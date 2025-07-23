@@ -12,3 +12,4 @@ bootstrap-select-*.zip
 dist/
 
 docs/site
+.env
