@@ -6,3 +6,5 @@ export type {
   OptionGroup, 
   OptionOrGroup 
 } from './types';
+
+export default type
